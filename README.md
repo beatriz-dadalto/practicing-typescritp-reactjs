@@ -1,0 +1,1 @@
+## Practicing typescript from this Tutorial [vídeo](https://youtu.be/tG3Uwvuqzuk)
